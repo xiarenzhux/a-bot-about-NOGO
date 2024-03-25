@@ -1,0 +1,14 @@
+response
+
+{
+	"x" : 0,
+	"y" : 8
+}
+debug
+已经下过的棋数:44986
+data
+null
+
+globaldata
+null
+
